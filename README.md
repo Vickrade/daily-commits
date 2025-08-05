@@ -1,4 +1,3 @@
 
 # daily-commits
-Brotherly 
-ok
+o
